@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://blackstormco.asia/wp-content/uploads/2020/02/Startup-Conclave-2016-Background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.signup {
+  margin-top: 12vh;
+}
+
+.signup__title {
+  padding-bottom: 20px;
+}
+
+.signup__paper {
+  padding: 20px;
+  /* background-color: rgba(255, 255, 255, 0.7) !important; */
+}
+
+.signup__input {
+  width: 100%;
+  padding-bottom: 20px !important;
+}
+
+.signup__loginLink {
+  padding-top: 10px;
+}
