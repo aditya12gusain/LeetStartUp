@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\..\\GitHub\\react-tinder-card-demo"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
