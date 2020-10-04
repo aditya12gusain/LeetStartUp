@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./Components/Navbar";
 import Tinder from "./Components/Tinder";
 import Signup from "./Components/Signup";
+import Profile from "./Components/Profile";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -13,6 +14,10 @@ function App() {
           <Route path="/tinder">
             <Navbar />
             <Tinder />
+          </Route>
+          <Route path="/profile">
+            <Navbar />
+            <Profile />
           </Route>
           <Route path="/signup">
             <Navbar />
